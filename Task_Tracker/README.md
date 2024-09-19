@@ -22,7 +22,7 @@ Task Tracker is a simple command-line application written in Python for managing
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/task-tracker.git
+git clone https://github.com/AbdullahAlMuti/Python/blob/main/Task_Tracker/task_tracker.py
 ```
 
 ## Usage
